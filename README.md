@@ -4,3 +4,8 @@ This study explores the novel application of a leading machine learning architec
 
 ![Network Workflow](NetworkWorkflow.jpg)
 
+
+![Network Architecture](NetworkArchitecture.jpg)
+
+
+
